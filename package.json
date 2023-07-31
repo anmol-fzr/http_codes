@@ -1,0 +1,29 @@
+{
+  "name": "http_codes",
+  "version": "1.0.0",
+  "description": "Handy HTTP Codes",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmol-fzr/http_codes.git"
+  },
+  "keywords": [
+    "http",
+    "rest",
+    "code",
+    "node"
+  ],
+  "author": "Anmol",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anmol-fzr/http_codes/issues"
+  },
+  "homepage": "https://github.com/anmol-fzr/http_codes#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
